@@ -5,6 +5,7 @@
 [CodeChef Problems](https://www.codechef.com/problems/school/)
 Help me learn GitHub
 
+#Practice Track
 ✔️ Day 1
 > Updated page and solved challenges upto 10
 ---
@@ -17,3 +18,7 @@ Help me learn GitHub
 ✔️ Day 4
 > Updated page and solved challenges upto 25
 ---
+
+ [Go To Top](#Practice Track)
+          section_title<a name="#Practice Track"></a>    
+
